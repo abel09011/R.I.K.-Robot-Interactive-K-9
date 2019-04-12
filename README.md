@@ -1,4 +1,4 @@
-# R.I.K.-Robot-Interactive-K9-
+# R.I.K.[Robot-Interactive-K-9]
 Something big is built in small steps
 
 This is the repository for R.I.K.
