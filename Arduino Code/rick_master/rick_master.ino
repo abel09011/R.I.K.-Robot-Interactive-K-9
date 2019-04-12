@@ -26,6 +26,7 @@ const int pingPin = 2; // Trigger Pin of Ultrasonic Sensor
 const int echoPin = 3; // Echo Pin of Ultrasonic Sensor
 boolean t = false;
 
+//default state 
 void hey()
    { 
     alert();
