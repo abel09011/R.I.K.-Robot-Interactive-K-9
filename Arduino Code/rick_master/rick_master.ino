@@ -311,7 +311,7 @@ void setup()
   neck.write(0);
   delay(2000);
   head2();
-  delay(5000);
+  delay(4000);
   ////////////////
   //3rd stage on default
   ////////////////
@@ -447,13 +447,13 @@ void loop() {
       else if (voice == "hey") {
       hey();
     }
-      else if (voice == "shake") {
+      else if (voice == "shake" || voice == "Shake") {
       shake();
     }
-      else if (voice == "alert") {
+      else if (voice == "alert" || voice == "Alert") {
       alert();
     }
-    delay(5000);
+    delay(2000);
     voice = "";
   }
 
