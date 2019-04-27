@@ -7,8 +7,6 @@ import android.content.ActivityNotFoundException;
 import android.content.Intent;
 import android.os.Bundle;
 import android.speech.RecognizerIntent;
-import android.support.annotation.ColorInt;
-import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
@@ -39,9 +37,11 @@ public class MainActivity extends AppCompatActivity {
     protected Button downButton;
     protected Button walkButton;
     protected Button connectButton;
+    protected Button shakeButton;
+    protected Button sitButton;
+    protected Button heyButton;
     protected ImageButton micButton;
 
-    private TextView sendMessageText;
     private TextView sentText;
 
     protected boolean connected;
@@ -56,10 +56,12 @@ public class MainActivity extends AppCompatActivity {
         straightButton = findViewById(R.id.straight_button);
         downButton = findViewById(R.id.down_button);
         walkButton = findViewById(R.id.walk_button);
+        shakeButton = findViewById(R.id.shake_button);
+        sitButton = findViewById(R.id.sit_button);
+        heyButton = findViewById(R.id.hey_button);
         connectButton = findViewById(R.id.connect_button);
         micButton = findViewById(R.id.mic_button);
 
-        sendMessageText = findViewById(R.id.send_message_text);
         sentText = findViewById(R.id.sent_text);
 
         setConnected(false);
@@ -99,6 +101,27 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        shakeButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                send("shake");
+            }
+        });
+
+        sitButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                send("sit");
+            }
+        });
+
+        heyButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                send("hey");
+            }
+        });
+
         connectButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -128,27 +151,34 @@ public class MainActivity extends AppCompatActivity {
         downButton.setEnabled(value);
         walkButton.setEnabled(value);
         micButton.setEnabled(value);
+        shakeButton.setEnabled(value);
+        sitButton.setEnabled(value);
+        heyButton.setEnabled(value);
 
         if (value) {
-            standButton.setBackgroundColor(this.getResources().getColor(R.color.colorButtonEnabled));
-            bowButton.setBackgroundColor(this.getResources().getColor(R.color.colorButtonEnabled));
-            straightButton.setBackgroundColor(this.getResources().getColor(R.color.colorButtonEnabled));
-            downButton.setBackgroundColor(this.getResources().getColor(R.color.colorButtonEnabled));
-            walkButton.setBackgroundColor(this.getResources().getColor(R.color.colorButtonEnabled));
+            standButton.setTextColor(this.getResources().getColor(R.color.colorTextEnabled));
+            bowButton.setTextColor(this.getResources().getColor(R.color.colorTextEnabled));
+            straightButton.setTextColor(this.getResources().getColor(R.color.colorTextEnabled));
+            downButton.setTextColor(this.getResources().getColor(R.color.colorTextEnabled));
+            walkButton.setTextColor(this.getResources().getColor(R.color.colorTextEnabled));
+            shakeButton.setTextColor(this.getResources().getColor(R.color.colorTextEnabled));
+            sitButton.setTextColor(this.getResources().getColor(R.color.colorTextEnabled));
+            heyButton.setTextColor(this.getResources().getColor(R.color.colorTextEnabled));
+
             micButton.setAlpha(255);
             sentText.setAlpha(1);
-            sendMessageText.setAlpha(1);
-
         } else {
-            standButton.setBackgroundColor(this.getResources().getColor(R.color.colorButtonDisabled));
-            bowButton.setBackgroundColor(this.getResources().getColor(R.color.colorButtonDisabled));
-            straightButton.setBackgroundColor(this.getResources().getColor(R.color.colorButtonDisabled));
-            downButton.setBackgroundColor(this.getResources().getColor(R.color.colorButtonDisabled));
-            walkButton.setBackgroundColor(this.getResources().getColor(R.color.colorButtonDisabled));
-            micButton.setAlpha(50);
-            sentText.setAlpha(0);
-            sendMessageText.setAlpha(0);
+            standButton.setTextColor(this.getResources().getColor(R.color.colorTextDisabled));
+            bowButton.setTextColor(this.getResources().getColor(R.color.colorTextDisabled));
+            straightButton.setTextColor(this.getResources().getColor(R.color.colorTextDisabled));
+            downButton.setTextColor(this.getResources().getColor(R.color.colorTextDisabled));
+            walkButton.setTextColor(this.getResources().getColor(R.color.colorTextDisabled));
+            shakeButton.setTextColor(this.getResources().getColor(R.color.colorTextDisabled));
+            sitButton.setTextColor(this.getResources().getColor(R.color.colorTextDisabled));
+            heyButton.setTextColor(this.getResources().getColor(R.color.colorTextDisabled));
 
+            micButton.setAlpha(0);
+            sentText.setAlpha(0);
             sentText.setText("");
         }
     }
