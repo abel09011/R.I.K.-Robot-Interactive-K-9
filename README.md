@@ -33,8 +33,8 @@ Figure 2 shows the back of the robot
 | `help()`      | Display the help window.       |
 | `destroy()`   | **Destroy your computer!**     |
 
-| Item      | Value |
-| --------- | -----:|
-| Computer  | $1600 |
-| Phone     |   $12 |
-| Pipe      |    $1 |
+| Item                                                     | Value  |
+| -------------------------------------------------------- | ------:|
+| 1x Arduino MEGA 2560                                     | $1600  |
+| 1x USB cable A to B (also known as the printer cable)    |   $12  |
+| 13.8g MG92B Servo x 14 ($7.70)ea                         |    $1  |
