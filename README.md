@@ -16,11 +16,6 @@ Figure 2 shows the back of the robot
 **Components**
 
 
-| Function name | Description                    |
-| ------------- | ------------------------------ |
-| `help()`      | Display the help window.       |
-| `destroy()`   | **Destroy your computer!**     |
-
 | Item                                                     | Value   |
 | -------------------------------------------------------- | -------:|
 | 1x Arduino MEGA 2560                                     | $40     |
@@ -34,3 +29,8 @@ Figure 2 shows the back of the robot
 | 1x Protoboard                                            | $5      |
 | 1x Sodering Kit                                          |   $20   |
 | Various male pin headers                                 |   $6    |
+
+| Function name | Description                    |
+| ------------- | ------------------------------ |
+| `help()`      | Display the help window.       |
+| `destroy()`   | **Destroy your computer!**     |
