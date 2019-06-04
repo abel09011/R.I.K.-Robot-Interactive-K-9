@@ -28,4 +28,13 @@ Figure 2 shows the back of the robot
 | 1x Sodering Kit                                         | $20     | 
 | male pin headers                                        | $6      | 
 
+| Function name | Description                    |
+| ------------- | ------------------------------ |
+| `help()`      | Display the help window.       |
+| `destroy()`   | **Destroy your computer!**     |
 
+| Item      | Value |
+| --------- | -----:|
+| Computer  | $1600 |
+| Phone     |   $12 |
+| Pipe      |    $1 |
