@@ -30,10 +30,10 @@ Figure 2 shows the back of the robot
 | 1x Sodering Kit                                          |   $20   |
 | Various male pin headers                                 |   $6    |
 
-**Android Apllication Functions**
+**Apllication Functions**
 
 
 | Function name | Description                    |
 | ------------- | ------------------------------ |
-| `help()`      | Display the help window.       |
+| `hey()`       | Default sate.                  |
 | `destroy()`   | **Destroy your computer!**     |
