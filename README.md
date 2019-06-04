@@ -13,26 +13,24 @@ Figure 1 shows the current prototype
 Figure 2 shows the back of the robot
 ![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/RIK's%20Back.png)
 
-###Tables
-                    
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell 
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-| Function name | Description                    |
-| ------------- | ------------------------------ |
-| `help()`      | Display the help window.       |
-| `destroy()`   | **Destroy your computer!**     |
-
+**Components**
 | Item                                                     | Value  |
 | -------------------------------------------------------- | ------:|
 | 1x Arduino MEGA 2560                                     | $40    |
 | 1x USB cable A to B (also known as the printer cable)    | $4     |
 | 13.8g MG92B Servo x 14 ($7.70)ea                         | $107.8 |
 | 1x Breadboard                                            | $3     |
+| Various Male-to-male & Male-to-female connecting wires   | $8     |
+| 1x 7.4V (2 Cell) 4000 mAh (or above) LiPo battery        | $10    |
+| 1x 3A UBEC (Universal Battery Elimination Circuit)       | $4     |
+| 1x HC 06 Bluetooth module                                | $8     |               
+| 1x Protoboard                                            | $5     | 
+| 1x Sodering Kit                                          | $20    | 
+| 40x male pin headers                                     | $6     | 
+
+**Android App Functions**
+| Function name | Description                    |
+| ------------- | ------------------------------ |
+| `help()`      | Display the help window.       |
+| `destroy()`   | **Destroy your computer!**     |
+
