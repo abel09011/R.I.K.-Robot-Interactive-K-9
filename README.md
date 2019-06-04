@@ -31,6 +31,12 @@ Figure 2 shows the back of the prototype
 | 1x Protoboard                                            | $5      |
 | 1x Sodering Kit                                          |   $20   |
 | Various male pin headers                                 |   $6    |
+| Plywood                                                  |   $10   |
+
+**STL Parts**
+The following parts were laser cutted with plywood
+![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Laser%20Cut%20Blueprint.png)
+
 
 **Application Functions**
 
