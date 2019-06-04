@@ -42,4 +42,5 @@ Figure 2 shows the back of the robot
 | `vow()`       | **Bends front Legs**           |
 | `walk()`      | **Does the walking Animation** |
 | `down()`      | **Bends Down**                 |
-| `sit()`       | **Sits Down**                  |
+| `tail2()`     | **Tail Animation**             |
+| `head2()`     | **Head Animation**             |
