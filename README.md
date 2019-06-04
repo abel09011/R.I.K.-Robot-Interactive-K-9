@@ -30,10 +30,16 @@ Figure 2 shows the back of the robot
 | 1x Sodering Kit                                          |   $20   |
 | Various male pin headers                                 |   $6    |
 
-**Apllication Functions**
+**Application Functions**
 
 
 | Function name | Description                    |
 | ------------- | ------------------------------ |
-| `hey()`       | Default sate.                  |
-| `destroy()`   | **Destroy your computer!**     |
+| `hey()`       | **Default state**              |
+| `shake()`     | **Shakes Paw**                 |
+| `alert()`     | **Listens for Commands**       |
+| `up()`        | **Stands Up**                  |
+| `vow()`       | **Bends front Legs**           |
+| `walk()`      | **Does the walking Animation** |
+| `down()`      | **Bends Down**                 |
+| `sit()`       | **Sits Down**                  |
