@@ -18,7 +18,7 @@ Figure 2 shows the back of the robot
 | ------------------------------------------------------- | -------:|
 | 1x Arduino MEGA 2560                                    | $40     |
 | 1x USB cable A to B (also known as the printer cable)   | $4      |
-| 13.8g MG92B Servo x 14 ($7.70)ea                        | $107.8  |
+| 13.8g MG92B Servo x 14 ($7.70)each                      | $107.8  |
 | 1x Breadboard                                           | $3      |
 | Various Male-to-male & Male-to-female connecting wires  | $8      |
 | 1x 7.4V (2 Cell) 4000 mAh (or above) LiPo battery       | $10     |
@@ -33,8 +33,11 @@ Figure 2 shows the back of the robot
 | `help()`      | Display the help window.       |
 | `destroy()`   | **Destroy your computer!**     |
 
-| Item                                                     | Value  |
-| -------------------------------------------------------- | ------:|
-| 1x Arduino MEGA 2560                                     | $1600  |
-| 1x USB cable A to B (also known as the printer cable)    |   $12  |
-| 13.8g MG92B Servo x 14 ($7.70)ea                         |    $1  |
+| Item                                                     | Value   |
+| -------------------------------------------------------- | -------:|
+| 1x Arduino MEGA 2560                                     | $40     |
+| 1x USB cable A to B (also known as the printer cable)    |   $4    |
+| 13.8g MG92B Servo x 14 ($7.70)each                       | $107.8  |
+| 1x Breadboard                                            | $3      |
+| Various Male-to-male & Male-to-female wires              |   $8    |
+| 1x 7.4V (2 Cell) 4000 mAh (or above) LiPo battery        |   $10   |
