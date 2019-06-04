@@ -9,3 +9,5 @@ Working on the Instructions tab, Started to document the building & programming 
 
 Current Prototype
 ![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/RIK%20Final%20Design.png)
+
+![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/RIK's%20Back.png)
