@@ -71,7 +71,7 @@ Figure 2 shows the back of the prototype
 
 ### DEMO
 
-![alt text](https://giphy.com/gifs/RH6qQ4wetGx1hopJSP/html5)
+![alt text](https://media.giphy.com/media/RH6qQ4wetGx1hopJSP/giphy.gif)
 
 
 
