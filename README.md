@@ -71,7 +71,7 @@ Figure 2 shows the back of the prototype
 
 ### DEMO
 
-![alt text](https://media.giphy.com/media/RH6qQ4wetGx1hopJSP/giphy.gif)
+![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/DEMO.gif)
 
 
 
