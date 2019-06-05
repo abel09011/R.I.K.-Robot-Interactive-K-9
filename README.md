@@ -35,8 +35,24 @@ Figure 2 shows the back of the prototype
 | Plywood                                                  |   $10   |
 
 
+**Application Functions**
 
-**STL Parts**
+
+| Function name | Description                    | Voice Command   |
+| ------------- | ------------------------------ | --------------- |
+| `hey()`       | **Default state**              | **HEY**         |
+| `shake()`     | **Shakes Paw**                 | **SHAKE**       |
+| `alert()`     | **Listens for Commands**       |                 |
+| `up()`        | **Stands Up**                  | **STAND**       |
+| `vow()`       | **Bends front Legs**           | **VOW**         |
+| `walk()`      | **Does the walking Animation** | **WALK**        |
+| `down()`      | **Bends Down**                 | **DOWN**        |
+| `tail2()`     | **Tail Animation**             |                 |
+| `head2()`     | **Head Animation**             |                 |
+
+
+
+### 3D Model Parts
 
 The body parts were created in SolidWorks
 
@@ -55,32 +71,12 @@ The following parts were laser cutted with plywood
 ![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Legs%20%26%20Main%20Frame.png)
 
 
-**Android Application Commands**
+### Android Application Commands
 
 Here are the Icons and GUI for our Android application
 
 ![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Android%20Icons.png)
 ![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Android%20GUI.png)
-
-**Application Functions**
-
-
-| Function name | Description                    | Voice Command   |
-| ------------- | ------------------------------ | --------------- |
-| `hey()`       | **Default state**              | **HEY**         |
-| `shake()`     | **Shakes Paw**                 | **SHAKE**       |
-| `alert()`     | **Listens for Commands**       |                 |
-| `up()`        | **Stands Up**                  | **STAND**       |
-| `vow()`       | **Bends front Legs**           | **VOW**         |
-| `walk()`      | **Does the walking Animation** | **WALK**        |
-| `down()`      | **Bends Down**                 | **DOWN**        |
-| `tail2()`     | **Tail Animation**             |                 |
-| `head2()`     | **Head Animation**             |                 |
-
-
-**Block Diagram**
-
-![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Schematics/Block%20Diagram.png)
 
 
 ### To Do List
