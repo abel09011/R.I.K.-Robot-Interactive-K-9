@@ -39,12 +39,12 @@ Figure 2 shows the back of the prototype
 **STL Parts**
 
 The body parts were created in SolidWorks
+
 ![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Solid%20Work%20Parts/Head%20STLs.png)
 
 ![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Solid%20Work%20Parts/Legs%20STLs.png)
 
 ![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Solid%20Work%20Parts/Main%20Frame%20STLs.png)
-
 
 
 The following parts were laser cutted with plywood
