@@ -83,6 +83,9 @@ Here are the Icons and GUI for our Android application
 
 ![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Schematics/Block%20Diagram.png)
 
+### Credits
 
+- All the persons who contributed to the `R.I.K` project with me: Jairo Mazariegos, Paul Barrameda, Chris Espino, Franklin Cortez.
+- GoogleCloudPlatform libraries, Arduino, Aibo, Petoi.
 
 ###### End
