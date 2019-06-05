@@ -79,27 +79,10 @@ Here are the Icons and GUI for our Android application
 | `head2()`     | **Head Animation**             |                 |
 
 
+**Block Diagram**
 
-###FlowChart
+![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Schematics/Block%20Diagram.png)
 
-```flow
-st=>start: Login
-op=>operation: Login operation
-cond=>condition: Successful Yes or No?
-e=>end: To admin
 
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
 
-###Sequence Diagram
-                    
-```seq
-Andrew->China: Says Hello 
-Note right of China: China thinks\nabout it 
-China-->Andrew: How are you? 
-Andrew->>China: I am good thanks!
-```
-
-###End
+# End
