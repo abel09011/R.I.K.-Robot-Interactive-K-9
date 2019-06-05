@@ -62,16 +62,5 @@ Here are the Icons and GUI for our Android application
 | `head2()`     | **Head Animation**             |                 |
 
 
-| Function name | Description                    |
-| ------------- | ------------------------------ |
-| `hey()`       | **Default state**              |
-| `shake()`     | **Shakes Paw**                 |
-| `alert()`     | **Listens for Commands**       |
-| `up()`        | **Stands Up**                  |
-| `vow()`       | **Bends front Legs**           |
-| `walk()`      | **Does the walking Animation** |
-| `down()`      | **Bends Down**                 |
-| `tail2()`     | **Tail Animation**             |
-| `head2()`     | **Head Animation**             |
 
 
