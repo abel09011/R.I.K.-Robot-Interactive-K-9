@@ -6,7 +6,7 @@ The goal is to collaborate between senior project members to make a quadruped do
 This project requires basic knowledge of C++, C & Java or pyhton. 
 
 This senior project started when our group stumbled upon a youtube video showcasing an awesome robotic dog that acts on it's own named [Aibo](https://www.youtube.com/watch?v=8t8fyiiQVZ0 "Aibo"). We were intrigued by it, that we started to research how robots work. Coincidentally, this gave us the inspiration to make our own robotic dog. There was a problem, though, that this robotic dog was too expensive. We told ourselves, "There must be an easier and cheaper way!". As a result, we came up with our own design and easier to find components. 
-In fact, most of the components for this project can be found in Arduino Starter Kits. Of course, this design is not the best, nor it is for final production, but it's intended to be a working prototype. The PCB design and 3D STL files can be found in their respective folders, along side the code. The Mega micro-controller is programmed uisng the master.ino file and the android application is used to connect to robotic dog.
+In fact, most of the components for this project can be found in Arduino Starter Kits. Of course, this design is not the best, nor it is for final production, but it's intended to be a working prototype. The PCB design and 3D STL files can be found in their respective folders, along side the code. Basic knowledge is needed in order to Print/Laser cut the required robotic parts. The Mega micro-controller is programmed uisng the master.ino file and the android application is used to connect to robotic dog.
 
 Started to document the building & programming process.
 
@@ -34,16 +34,31 @@ Figure 2 shows the back of the prototype
 | Various male pin headers                                 |   $6    |
 | Plywood                                                  |   $10   |
 
+
 **STL Parts**
+
+The body parts were created in SolidWorks
+![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Solid%20Work%20Parts/Head%20STLs.png)
+
+![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Solid%20Work%20Parts/Legs%20STLs.png)
+
+![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Solid%20Work%20Parts/Main%20Frame%20STLs.png)
 
 The following parts were laser cutted with plywood
 ![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Laser%20Cut%20Blueprint.png)
+
+The Head, Legas & Main Frame 
+![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Head%20%26%20Neck.png)
+
+![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Legs%20%26%20Main%20Frame.png)
+
 
 **Android Application Commands**
 
 Here are the Icons and GUI for our Android application
 
 ![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Android%20Icons.png)
+
 ![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Android%20GUI.png)
 
 **Application Functions**
