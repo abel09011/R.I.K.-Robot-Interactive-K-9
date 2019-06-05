@@ -95,7 +95,7 @@ Here are the Icons and GUI for our Android application
 ![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Android%20Icons.png)
 
 
-![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Android%20GUI.png)
+![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/GUI.png)
 
 
 ### To Do List
