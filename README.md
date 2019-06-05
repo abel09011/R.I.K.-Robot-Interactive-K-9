@@ -45,6 +45,7 @@ The body parts were created in SolidWorks
 ![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Solid%20Work%20Parts/Main%20Frame%20STLs.png)
 
 
+
 The following parts were laser cutted with plywood
 ![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Laser%20Cut%20Blueprint.png)
 
