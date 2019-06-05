@@ -42,11 +42,24 @@ The following parts were laser cutted with plywood
 **Android Application Commands**
 
 Here are the Icons and GUI for our Android application
-The following parts were laser cutted with plywood
-![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Laser%20Cut%20Blueprint.png)
 
+![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Android%20Icons.png)
+![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Android%20GUI.png)
 
 **Application Functions**
+
+
+| Function name | Description                    | Voice Command   |
+| ------------- | ------------------------------ | --------------- |
+| `hey()`       | **Default state**              | **HEY**         |
+| `shake()`     | **Shakes Paw**                 | **SHAKE**       |
+| `alert()`     | **Listens for Commands**       |                 |
+| `up()`        | **Stands Up**                  | **STAND**       |
+| `vow()`       | **Bends front Legs**           | **VOW**         |
+| `walk()`      | **Does the walking Animation** | **WALK**        |
+| `down()`      | **Bends Down**                 | **DOWN**        |
+| `tail2()`     | **Tail Animation**             |                 |
+| `head2()`     | **Head Animation**             |                 |
 
 
 | Function name | Description                    |
@@ -60,4 +73,5 @@ The following parts were laser cutted with plywood
 | `down()`      | **Bends Down**                 |
 | `tail2()`     | **Tail Animation**             |
 | `head2()`     | **Head Animation**             |
+
 
