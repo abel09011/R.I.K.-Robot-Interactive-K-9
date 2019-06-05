@@ -47,7 +47,6 @@ The body parts were created in SolidWorks
 The following parts were laser cutted with plywood
 ![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Laser%20Cut%20Blueprint.png)
 
-The Head, Legas & Main Frame 
 ![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Head%20%26%20Neck.png)
 
 ![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Legs%20%26%20Main%20Frame.png)
@@ -58,7 +57,6 @@ The Head, Legas & Main Frame
 Here are the Icons and GUI for our Android application
 
 ![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Android%20Icons.png)
-
 ![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Android%20GUI.png)
 
 **Application Functions**
