@@ -9,6 +9,8 @@ This senior project started when our group stumbled upon a youtube video showcas
 
 Of course, this design is not the best, nor it is for final production, but it's intended to be a working prototype. The PCB design and 3D STL files can be found in their respective folders, along side the code. Basic knowledge is needed in order to Print/Laser cut the required robotic parts. The Mega micro-controller is programmed uisng the master.ino file and the android application is used to connect to robotic dog.
 
+**To-do**
+
 Started to document the building & programming process.
 
 Figure 1 shows the current prototype
