@@ -16,7 +16,8 @@ Figure 1 shows the current prototype
 Figure 2 shows the back of the prototype
 ![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/RIK's%20Back.png)
 
-**Components**
+
+### Components
 
 
 | Item                                                     | Value   |
@@ -35,7 +36,8 @@ Figure 2 shows the back of the prototype
 | Plywood                                                  |   $10   |
 
 
-**Application Functions**
+
+### Application Functions
 
 
 | Function name | Description                    | Voice Command   |
