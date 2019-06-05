@@ -69,7 +69,14 @@ Figure 2 shows the back of the prototype
 ![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Up.png)
 
 
+### DEMO
+
+![alt text](https://giphy.com/gifs/RH6qQ4wetGx1hopJSP/html5)
+
+
+
 ### 3D Model Parts
+
 
 The body parts were created in SolidWorks
 
