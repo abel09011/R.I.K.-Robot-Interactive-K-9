@@ -36,6 +36,20 @@ Figure 2 shows the back of the prototype
 | Plywood                                                  |   $10   |
 
 
+###FlowChart
+
+```flow
+st=>start: Login
+op=>operation: Login operation
+cond=>condition: Successful Yes or No?
+e=>end: To admin
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+```
+
+
 **STL Parts**
 
 The body parts were created in SolidWorks
