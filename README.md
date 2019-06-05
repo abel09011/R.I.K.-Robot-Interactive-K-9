@@ -53,6 +53,21 @@ Figure 2 shows the back of the prototype
 | `head2()`     | **Head Animation**             |                 |
 
 
+### Voice Commands Examples
+
+
+`DOWN`
+
+![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Sit.png)
+
+`SHAKE`
+
+![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Shake.png)
+
+`STAND`
+
+![alt text](https://github.com/abel09011/R.I.K.-Robot-Interactive-K-9/blob/master/Up.png)
+
 
 ### 3D Model Parts
 
